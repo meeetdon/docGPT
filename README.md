@@ -80,3 +80,4 @@ ChatGPT directly integrated into Google Docs 📑
 1.  Wait for your result! (Currently it is not recommended to ask ChatGPT again before current question is answered, otherwise all the answers can be mixed up. Keyboard input is disabled while waiting for the result, see issue #9.)
 
 # docGPT
+# docGPT
